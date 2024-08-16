@@ -9,4 +9,4 @@ portainer/portainer-ce
 homeassistant/home-assistant
 unilei/aipan-netdisk-search
 #支持指定架构
---platform=linux/amd64 xiaoyaliu/alist
+#--platform=linux/amd64 xiaoyaliu/alist
