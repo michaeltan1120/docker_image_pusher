@@ -7,5 +7,6 @@ rustdesk/rustdesk-server
 rustdesk/rustdesk-server
 portainer/portainer-ce
 homeassistant/home-assistant
+onething1/wxedge
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
